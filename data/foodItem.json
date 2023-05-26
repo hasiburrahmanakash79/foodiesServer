@@ -1,0 +1,32 @@
+[
+      {
+        "id": 1,
+        "name": "Kung Pao Chicken",
+        "image": "https://www.seriouseats.com/thmb/AaMf6tliWc3jh0R-9KLiJG5fzZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2014__07__2021-02-12-Take-Out-Kung-Pao-Chicken-MHOM-11-c46f6c06713c45c5a287ddbf08779d04.jpg",
+        "description": "Kung Pao Chicken is a spicy Szechuan dish made with diced chicken, peanuts, vegetables, and chili peppers. It is typically stir-fried and served over rice.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Egg Rolls",
+        "image": "https://www.allrecipes.com/thmb/VC_25bp-2QJ9XjxRS8k0JLaPMKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14704-best-egg-rolls-DDMFS-4x3-490f99efee9646c8b5de93b4e2f6f963.jpg",
+        "description": "Egg Rolls are a popular appetizer made with a crispy fried wrapper filled with chopped vegetables, meat, and sometimes shrimp. They are often served with sweet and sour sauce.",
+        "rating": 4.3
+      },
+      {
+        "id": 3,
+        "name": "Hot and Sour Soup",
+        "image": "https://www.pressurecookrecipes.com/wp-content/uploads/2023/02/instant-pot-hot-and-sour-soup.jpg",
+        "description": "Hot and Sour Soup is a classic Chinese soup made with chicken or pork broth, mushrooms, tofu, bamboo shoots, and a mixture of hot and sour flavors. It is often garnished with green onions and white pepper.",
+        "rating": 4.2
+      },
+      {
+        "id": 4.5,
+        "name": "Beef and Broccoli",
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1648496041%2Ffinal_Dinner_Beef_Broccoli_stir_fry_285.jpg%3Fitok%3Dg3PO69Gm",
+        "description": "Beef and Broccoli is a stir-fry dish made with thinly sliced beef, broccoli, and a savory brown sauce. It is often served over rice or noodles.",
+        "rating": 4.4
+      }
+]
+
+  
